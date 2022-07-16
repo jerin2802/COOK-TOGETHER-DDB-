@@ -1,0 +1,3 @@
+# COOK-TOGETHER-DDB-
+It's a distributed database project. In this project, one can share his/her receipe which is tasted by this specific type of experienced chef and give their rankings....
+By using these rankings , one restaurant can choose this receipe owner to be a chef of that restaurant
